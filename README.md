@@ -1,9 +1,24 @@
 # whereiam
-
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
+<ul>
+  <li>
+    <a href="url">link text</a>
+  </li>
+  <li>
+    <a href="url">link text</a>
+  </li>
+   <li>
+    <a href="url">link text</a>
+  </li>
+   <li>
+    <a href="url">link text</a>
+  </li>
+   <li>
+    <a href="url">link text</a>
+  </li>
+   <li>
+    <a href="url">link text</a>
+  </li>
+   <li>
+    <a href="url">link text</a>
+  </li>  
+</ul>  
